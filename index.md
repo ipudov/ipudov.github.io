@@ -50,3 +50,8 @@
 
 * **Роль:** Environment Designer / Lighting Artist / 3D Generalist
 * **Стек:** Unity, Maya, High Definition Render Pipeline
+
+## Контактная информация
+
+* **Telegram:**
+* **Email:**
