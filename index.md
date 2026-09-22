@@ -21,9 +21,32 @@
 
 ## Проекты
 
-* **Monster Smash & Blast**
-* **Crazy Claw: The Rings**
-* **Crazy Claw: The Emojis**
-* **Школа Спасателей**
-* **Союзмультпарк**
-* **Океан Юрского периода**
+### Monster Smash & Blast
+
+* **Роль:** Technical Game Designer / Sound Designer
+* **Стек:** Unity, C#, Blender
+
+### Crazy Claw: The Rings
+
+* **Роль:** Technical Producer
+* **Стек:** Jira
+
+### Crazy Claw: The Emojis
+
+* **Роль:** Technical Producer
+* **Стек:** Jira
+
+### Школа Спасателей
+
+* **Роль:** 3D Generalist
+* **Стек:** Blender, Substance Painter, Unity
+
+### Союзмультпарк
+
+* **Роль:** Technical Designer / Sound Designer
+* **Стек:** Unity
+
+### Океан Юрского периода
+
+* **Роль:** Environment Designer / Lighting Artist / 3D Generalist
+* **Стек:** Unity, Maya, High Definition Render Pipeline
