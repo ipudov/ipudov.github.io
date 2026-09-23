@@ -103,5 +103,5 @@
 
 ## Контактная информация
 
-**Telegram:** [@ivan_pudov](t.me/ivan_pudov)
+**Telegram:** [@ivan_pudov](https://t.me/ivan_pudov)
 
