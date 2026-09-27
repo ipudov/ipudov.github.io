@@ -1,8 +1,3 @@
----
-layout: project
-title: "Иван Пудов / Crazy Claw: The Emojis"
----
-
 # Crazy Claw: The Emojis
 
 *Игра для аркадного автомата*
