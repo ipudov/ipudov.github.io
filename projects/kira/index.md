@@ -1,8 +1,3 @@
----
-layout: project
-title: "Иван Пудов / Kira"
----
-
 # Kira
 
 *Гибридный синтезатор*
