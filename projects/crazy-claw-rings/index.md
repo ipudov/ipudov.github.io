@@ -1,8 +1,3 @@
----
-layout: project
-title: "Иван Пудов / Crazy Claw: The Rings"
----
-
 # Crazy Claw: The Rings
 
 *Игра для аркадного автомата*
