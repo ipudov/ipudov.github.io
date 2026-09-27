@@ -1,8 +1,3 @@
----
-layout: project
-title: "Иван Пудов / Monster Smash & Blast"
----
-
 # Monster Smash & Blast
 
 *Игра для аркадного автомата*
