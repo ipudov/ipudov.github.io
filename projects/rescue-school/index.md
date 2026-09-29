@@ -4,8 +4,10 @@
 
 **Роль:** 3D Generalist
 
-**Стек:** Blender, Houdini, Maya, Substance Painter, Unity
+«Школа Спасателей» — интерактивный квест в физическом пространстве. Я работал на проекте на этапе активного продакшена: делал черновой блокинг уровней в Unity, моделировал, текстурировал и анимировал ассеты персонажей и окружения. 
 
-Полный цикл производства 3D ассетов: от моделирования и текстурирования интерьера космического корабля до риггинга и анимации персонажей.
+Для автоматизации одной из задач спроектировал процедурный риг в Houdini.
 
 <a href="https://www.behance.net/gallery/240642691/Rescue-School-Interactive-Exhibition" target="_blank" rel="noopener noreferrer">behance.net ↗</a>
+
+**Стек:** Blender, Houdini, Maya, Substance Painter, Unity
