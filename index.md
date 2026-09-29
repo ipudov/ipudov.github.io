@@ -30,34 +30,18 @@
 
 ## Проекты
 
-**Kira**\
-Гибридный синтезатор\
-[Подробнее →](/projects/kira/)
+**Kira** — Синтезатор и композиционная среда. [Подробнее →](/projects/kira/)
 
-**Monster Smash & Blast**\
-Игра для аркадного автомата\
-[Подробнее →](/projects/monster-smash-blast/)
+**Monster Smash & Blast** — Игра для аркадного автомата. [Подробнее →](/projects/monster-smash-blast/)
 
-**Океан Юрского периода**\
-Мультимедийная интерактивная выставка\
-[Подробнее →](/projects/jurassic-ocean/)
+**Океан Юрского периода** — Мультимедийная интерактивная выставка. [Подробнее →](/projects/jurassic-ocean/)
 
-**Солнечный ветер**\
-Многоканальная пространственная композиция\
-[Подробнее →](/projects/solar-wind/)
+**Солнечный ветер** — 8-канальная звуковая инсталляция. [Подробнее →](/projects/solar-wind/)
 
-**Северный город**\
-Электроакустический концерт\
-[Подробнее →](/projects/northern-city/)
+**Северный город** — Электроакустический концерт. [Подробнее →](/projects/northern-city/)
 
-**Crazy Claw: The Emojis**\
-Игра для аркадного автомата\
-[Подробнее →](/projects/crazy-claw-emojis/)
+**Crazy Claw: The Emojis** — Игра для аркадного автомата. [Подробнее →](/projects/crazy-claw-emojis/)
 
-**Crazy Claw: The Rings**\
-Игра для аркадного автомата\
-[Подробнее →](/projects/crazy-claw-rings/)
+**Crazy Claw: The Rings** — Игра для аркадного автомата. [Подробнее →](/projects/crazy-claw-rings/)
 
-**Школа Спасателей**\
-Интерактивный квест\
-[Подробнее →](/projects/rescue-school/)
+**Школа Спасателей** — Интерактивный квест. [Подробнее →](/projects/rescue-school/)
