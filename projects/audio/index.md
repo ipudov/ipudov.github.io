@@ -1,4 +1,4 @@
-# Audio
+# Аудио-исследования
 
 ## 01. Self-Observing Mind
 
