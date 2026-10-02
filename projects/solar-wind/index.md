@@ -12,6 +12,8 @@
 
 <a href="https://kholmy.vzmoscow.ru/dot" target="_blank" rel="noopener noreferrer">kholmy.vzmoscow.ru ↗</a>
 
+<audio src="assets/solar-wind.wav" controls loop></audio>
+
 ## Экспликация
 
 Вселенная в каждом мгновении времени — иная, она непрерывно изменяется. Её изменчивость, естественное непостоянство связаны с масштабными физическими процессами.
