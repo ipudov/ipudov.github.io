@@ -16,6 +16,8 @@
 
 <a href="https://kholmy.vzmoscow.ru/artnight24" target="_blank" rel="noopener noreferrer">kholmy.vzmoscow.ru ↗</a>
 
+<audio src="assets/northern-city.wav" controls loop></audio>
+
 ## Концепция
 
 Программа концерта включает несколько частей, каждая из которых — запечатлённое время, история со своими героями. Иногда действие явно выражено — например, в пластике и в ритме, а иногда оно, напротив, приглушено, растянуто до образа.
