@@ -8,6 +8,8 @@
 
 [Обо мне →](/about/)
 
+[Музыка →](/music/)
+
 [ioann.pudov@gmail.com](mailto:ioann.pudov@gmail.com) / [@ivan_pudov](https://t.me/ivan_pudov)
 
 ## Проекты
