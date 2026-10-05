@@ -48,5 +48,18 @@
         {{ content }}
       </main>
     </div>
+
+    <script>
+      if (document.querySelector('audio')) {
+        const audios = document.querySelectorAll('audio');
+        audios.forEach(audio => {
+          audio.addEventListener('play', () => {
+            audios.forEach(otherAudio => {
+              if (otherAudio !== audio) otherAudio.pause();
+            });
+          });
+        });
+      }
+    </script>
   </body>
 </html>
