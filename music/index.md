@@ -14,16 +14,15 @@
 
 <audio src="assets/aqua.wav" controls loop></audio>
 
+<!--
 <script>
   const audios = document.querySelectorAll('audio');
-
   audios.forEach(audio => {
     audio.addEventListener('play', () => {
       audios.forEach(otherAudio => {
-        if (otherAudio !== audio) {
-          otherAudio.pause();
-        }
+        if (otherAudio !== audio) otherAudio.pause();
       });
     });
   });
 </script>
+-->
