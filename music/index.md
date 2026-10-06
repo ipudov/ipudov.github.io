@@ -8,14 +8,14 @@
 
 Здесь собраны фрагменты моих работ, в которых этот подход проявлен точнее всего.
 
-### Aqua
+### Xen
 
-<audio src="assets/aqua.wav" controls loop></audio>
+<audio src="assets/xen.wav" controls loop></audio>
 
 ### Солнечный ветер
 
 <audio src="/projects/solar-wind/assets/solar-wind.wav" controls loop></audio>
 
-### Xen
+### Aqua
 
-<audio src="assets/xen.wav" controls loop></audio>
+<audio src="assets/aqua.wav" controls loop></audio>
