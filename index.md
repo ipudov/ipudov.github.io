@@ -7,11 +7,11 @@
 Мне интересны сложные, амбициозные проекты в сфере интерактивных медиа, phygital-инсталляций и R&D аудио-систем, где я могу выступить автором концепции и лидером команды.
 
 <div style="display: flex; gap: 16px; margin-top: 16px; padding-bottom: 16px; flex-wrap: wrap;">
-  <a href="/music/" style="text-decoration: none;">Музыка →</a>
+  <a href="/music/">Музыка →</a>
   <span style="color: #888;">/</span>
-  <a href="/about/" style="text-decoration: none;">Обо мне →</a>
+  <a href="/about/">Обо мне →</a>
   <span style="color: #888;">/</span>
-  <a href="/cv/" style="text-decoration: none;">Резюме →</a>
+  <a href="/cv/">Резюме →</a>
 </div>
 
 [ioann.pudov@gmail.com](mailto:ioann.pudov@gmail.com) <span style="color: #888;">/</span> [@ivan_pudov](https://t.me/ivan_pudov)
