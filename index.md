@@ -6,18 +6,18 @@
 
 Мне интересны сложные, амбициозные проекты в сфере интерактивных медиа, phygital-инсталляций и R&D аудио-систем, где я могу выступить автором концепции и лидером команды.
 
-<div style="display: flex; gap: 16px; margin-top: 16px; padding-bottom: 16px; flex-wrap: wrap;">
+<div style="display: flex; gap: 16px; margin: 0 0 16px 0; flex-wrap: wrap;">
+  <a href="mailto:ioann.pudov@gmail.com">ioann.pudov@gmail.com</a>
+  <span style="color: #888;">/</span>
+  <a href="https://t.me/ivan_pudov" target="_blank" rel="noopener noreferrer">@ivan_pudov</a>
+</div>
+
+<div style="display: flex; gap: 16px; margin: 16px 0 8px 0; flex-wrap: wrap;">
   <a href="/music/">Музыка →</a>
   <span style="color: #888;">/</span>
   <a href="/about/">Обо мне →</a>
   <span style="color: #888;">/</span>
   <a href="/cv/">Резюме →</a>
-</div>
-
-<div style="display: flex; gap: 16px; margin-top: 16px; padding-bottom: 16px; flex-wrap: wrap;">
-  <a href="mailto:ioann.pudov@gmail.com">ioann.pudov@gmail.com</a>
-  <span style="color: #888;">/</span>
-  <a href="https://t.me/ivan_pudov" target="_blank" rel="noopener noreferrer">@ivan_pudov</a>
 </div>
 
 ## Проекты
