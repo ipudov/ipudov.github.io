@@ -8,7 +8,11 @@
 
 Я понимаю логику обоих миров, поэтому легко объединяю команды и помогаю им говорить на одном языке.
 
-[ioann.pudov@gmail.com](mailto:ioann.pudov@gmail.com) / [@ivan_pudov](https://t.me/ivan_pudov)
+<div style="display: flex; gap: 16px; margin: 0 0 16px 0; flex-wrap: wrap;">
+  <a href="mailto:ioann.pudov@gmail.com">ioann.pudov@gmail.com</a>
+  <span style="color: #888;">/</span>
+  <a href="https://t.me/ivan_pudov" target="_blank" rel="noopener noreferrer">@ivan_pudov</a>
+</div>
 
 ## Опыт работы
 
