@@ -13,9 +13,9 @@
 </div>
 
 <div style="display: flex; gap: 16px; margin: 16px 0 8px 0; flex-wrap: wrap;">
-  <a href="/music/">Музыка →</a>
-  <span style="color: #888;">/</span>
   <a href="/about/">Обо мне →</a>
+  <span style="color: #888;">/</span>
+  <a href="/music/">Музыка →</a>
   <span style="color: #888;">/</span>
   <a href="/cv/">Резюме →</a>
 </div>
