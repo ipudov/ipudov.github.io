@@ -9,7 +9,7 @@
 Я понимаю логику обоих миров, поэтому легко объединяю команды и помогаю им говорить на одном языке.
 
 <div style="margin-top: 16px;">
-  <p style="margin: 0 0 8px 0;"><a href="mailto:ioann.pudov@gmail.com">ioann.pudov@gmail.com</a></p>
+  <p style="margin: 0 0 16px 0;"><a href="mailto:ioann.pudov@gmail.com">ioann.pudov@gmail.com</a></p>
   <p style="margin: 0;"><a href="https://t.me/ivan_pudov" target="_blank" rel="noopener noreferrer">@ivan_pudov</a></p>
 </div>
 
