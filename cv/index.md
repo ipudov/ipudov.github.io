@@ -15,13 +15,13 @@
 
 ## Опыт работы
 
-### Rocket Amusements — *Technical Lead / Game Designer*
+### Rocket Amusements — *Technical Lead* / *Game Designer*
 
 2023 — сейчас
 
 Руководил командой, создавал технические задания, вёл дизайн-документацию, проектировал архитектуру для игры Monster Smash & Blast, придумывал и разрабатывал на C# новые игровые механики. Оптимизировал производительность проектов под ограничения целевого железа.
 
-### Hello.IO / Phygitech — *Technical Designer / CG Generalist*
+### Hello.IO / Phygitech — *Technical Designer* / *CG Generalist*
 
 2020 — 2023
 
