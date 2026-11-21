@@ -12,6 +12,6 @@
 
 Чтобы сделать общее звучание осязаемым и «физическим», я намеренно вводил акустические тембры — медные духовые или струнные фактуры. Я смешивал их с электронными тембрами, создавал отдельные звучания и полноценные сэмплерные инструменты, которые находятся на стыке акустического и электронного.
 
-<a href="https://kholmy.vzmoscow.ru/artnight24" target="_blank" rel="noopener noreferrer">kholmy.vzmoscow.ru ↗</a>
+<a href="https://kholmy.vzmoscow.ru/artnight24" target="_blank" rel="noopener noreferrer">Галерея Краснохолмская / Ночь искусств ↗</a>
 
 <audio src="assets/northern-city.wav" controls loop></audio>
