@@ -8,6 +8,6 @@
 
 Разработал в Houdini процедурную систему для создания вариантов объектов и подготовки моделей для Unity.
 
-<a href="https://www.behance.net/gallery/240642691/Rescue-School-Interactive-Exhibition" target="_blank" rel="noopener noreferrer">behance.net ↗</a>
+<a href="https://www.behance.net/gallery/240642691/Rescue-School-Interactive-Exhibition" target="_blank" rel="noopener noreferrer">Rescue School. Interactive Exhibition ↗</a>
 
 **Стек:** Blender, Houdini, Maya, Substance Painter, Unity
