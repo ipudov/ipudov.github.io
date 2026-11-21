@@ -10,6 +10,10 @@
 
 При переносе проекта на площадку ВДНХ в Москве я выполнил техническую адаптацию зоны прешоу. Также участвовал в подготовке и запуске интерактивных зон на площадках в Казани и в Москве, решая возникавшие технические и художественные задачи.
 
-<a href="https://www.youtube.com/watch?v=Fk6gvPtXQ2k" target="_blank" rel="noopener noreferrer">youtube.com ↗</a>
+#### Материалы
+
+<a href="https://www.youtube.com/watch?v=6ei51Vd0mmE" target="_blank" rel="noopener noreferrer">SMF Kazan / Digital Park ↗</a>
+
+<a href="https://www.youtube.com/watch?v=Fk6gvPtXQ2k" target="_blank" rel="noopener noreferrer">SMF Preshow / Immersive Zone ↗</a>
 
 **Стек:** Unity, Spine, Maya
