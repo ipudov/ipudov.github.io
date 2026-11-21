@@ -19,5 +19,5 @@
 
 **Стек:** Unity, C#, Blender
 
-![](assets/monster-smash-blast-machine.jpg)  
+![](assets/monster-smash-blast-machine.webp)  
 *Игровой автомат Monster Smash & Blast на площадке*
