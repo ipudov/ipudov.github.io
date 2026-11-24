@@ -4,11 +4,17 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <title>Иван Пудов / Портфолио</title>
-
+    
+    <title>
+      {% if page.title %}
+        {{ page.title | escape }} / Иван Пудов
+      {% else %}
+        Иван Пудов / Портфолио
+      {% endif %}
+    </title>
+    
     <meta property="og:title" content="Иван Пудов / Портфолио">
-    <meta property="og:description" content="Режиссер звука и технический дизайнер. Проектирую интерактивные системы. Использую звук, графику и код, чтобы создавать интересные живые истории.">
+    <meta property="og:description" content="Режиссер и технический дизайнер. Проектирую интерактивные системы. Использую звук, графику и код, чтобы создавать интересные живые истории.">
     <meta property="og:url" content="https://ipudov.github.io/">
     
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
