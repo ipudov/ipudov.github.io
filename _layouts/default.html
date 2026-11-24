@@ -6,7 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
     <title>
-      {% if page.title %}
+      {% if page.url == "/" %}
+        Иван Пудов / Портфолио
+      {% elsif page.title %}
         {{ page.title | escape }} / Иван Пудов
       {% else %}
         Иван Пудов / Портфолио
