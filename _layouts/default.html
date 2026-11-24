@@ -6,13 +6,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
     <title>
-      {% if page.url == "/" %}
-        Иван Пудов / Портфолио
-      {% elsif page.title %}
-        {{ page.title }} / Иван Пудов
-      {% else %}
-        Иван Пудов / Портфолио
-      {% endif %}
+      {%- if page.url != "/" and page.title -%}
+        {{ page.title }} — Иван Пудов
+      {%- else -%}
+        Иван Пудов — Режиссер и технический дизайнер
+      {%- endif -%}
     </title>
     
     <meta property="og:title" content="Иван Пудов / Портфолио">
