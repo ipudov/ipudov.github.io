@@ -1,2 +1,4 @@
 https://ipudov.github.io/
+https://ipudov.github.io/about/
+https://ipudov.github.io/music/
 https://ipudov.github.io/cv/
