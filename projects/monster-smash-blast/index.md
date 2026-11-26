@@ -1,3 +1,7 @@
+---
+title: "Monster Smash & Blast"
+---
+
 # Monster Smash & Blast
 
 *Игра для аркадного автомата*
