@@ -12,9 +12,10 @@ title: Резюме
 
 Понимание творческих и технических процессов позволяет мне выстраивать взаимодействие между специалистами разных направлений и координировать совместную работу.
 
-<div>
-  <p><a href="mailto:ioann.pudov@gmail.com">ioann.pudov@gmail.com</a></p>
-  <p><a href="https://t.me/ivan_pudov" target="_blank" rel="noopener noreferrer">@ivan_pudov</a></p>
+<div style="display: flex; gap: 16px; margin: 0 0 16px 0; flex-wrap: wrap;">
+  <a href="mailto:ioann.pudov@gmail.com">ioann.pudov@gmail.com</a>
+  <span style="color: #888;">/</span>
+  <a href="https://t.me/ivan_pudov" target="_blank" rel="noopener noreferrer">@ivan_pudov</a>
 </div>
 
 ## Опыт работы
