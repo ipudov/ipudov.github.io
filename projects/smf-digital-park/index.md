@@ -16,8 +16,8 @@
 
 #### Материалы
 
-<a href="https://www.youtube.com/watch?v=6ei51Vd0mmE" target="_blank" rel="noopener noreferrer">SMF Kazan / Digital Park ↗</a>
+<a href="https://www.youtube.com/watch?v=6ei51Vd0mmE" target="_blank" rel="noopener noreferrer">Видео проекта на YouTube ↗</a>
 
-<a href="https://www.youtube.com/watch?v=Fk6gvPtXQ2k" target="_blank" rel="noopener noreferrer">SMF Preshow / Immersive Zone ↗</a>
+<a href="https://www.youtube.com/watch?v=Fk6gvPtXQ2k" target="_blank" rel="noopener noreferrer">Видео о зоне прешоу на YouTube ↗</a>
 
 **Стек:** Unity, C#, Spine, Maya
