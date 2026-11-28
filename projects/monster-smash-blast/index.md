@@ -19,11 +19,13 @@ title: "Monster Smash & Blast"
 
 Затем я перешёл к геймдизайну и коду — проектировал архитектуру, придумывал и создавал новые механики и системы на C#, а также оптимизировал рендеринг под технические ограничения целевой платформы.
 
-![](assets/monster-smash-blast-machine.webp)  
-*Игровой автомат Monster Smash & Blast на площадке*
-
 На завершающем этапе проекта я работал над озвучанием игрового процесса: создал набор звуковых эффектов, интегрировал их в проект, а также спроектировал переходы между музыкальными состояниями. Звуковые события реализованы на кастомном звуковом движке.
 
 <a href="https://www.rocketamusements.com/" target="_blank" rel="noopener noreferrer">Официальный сайт Rocket Amusements ↗</a>
 
 **Стек:** Unity, C#, Blender
+
+<div style="text-align: center;">
+    <img src="assets/monster-smash-blast-machine.webp">
+    <p><em>Игровой автомат Monster Smash & Blast на площадке</em></p>
+</div>
