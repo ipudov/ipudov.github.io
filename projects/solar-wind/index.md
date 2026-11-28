@@ -10,7 +10,7 @@
 
 Работа была представлена на выставке «Точка сближения» в галерее «Краснохолмская» (Москва, 2024).
 
-<a href="https://kholmy.vzmoscow.ru/dot" target="_blank" rel="noopener noreferrer">Галерея Краснохолмская / Точка сближения ↗</a>
+<a href="https://kholmy.vzmoscow.ru/dot" target="_blank" rel="noopener noreferrer">Выставка «Точка сближения» в галерее «Краснохолмская» ↗</a>
 
 <audio src="assets/solar-wind.wav" controls loop></audio>
 
