@@ -60,11 +60,17 @@
         color: #888;
         margin-left: 1rem;
       }
-
+      
+      .site-nav a.active {
+        text-decoration: underline;
+        text-decoration-thickness: 1px;
+        text-underline-offset: 0.2em;
+      }
+      
       .markdown-body {
         padding-bottom: 6em;
       }
-
+      
       .markdown-body hr {
         height: 1px;
         background-color: #eaecef;
@@ -75,11 +81,11 @@
     <div class="container-lg px-3 my-5">
       <header class="site-header">
         <nav class="site-nav">
-          <a href="{{ '/' | relative_url }}">Главная</a>
-          <a href="{{ '/projects/' | relative_url }}">Проекты</a>
-          <a href="{{ '/about/' | relative_url }}">Обо мне</a>
-          <a href="{{ '/music/' | relative_url }}">Музыка</a>
-          <a href="{{ '/cv/' | relative_url }}">Резюме</a>
+          <a href="{{ '/' | relative_url }}" class="{% if page.url == '/' %}active{% endif %}">Главная</a>
+          <a href="{{ '/projects/' | relative_url }}" class="{% if page.url == '/projects/' %}active{% endif %}">Проекты</a>
+          <a href="{{ '/about/' | relative_url }}" class="{% if page.url == '/about/' %}active{% endif %}">Обо мне</a>
+          <a href="{{ '/music/' | relative_url }}" class="{% if page.url == '/music/' %}active{% endif %}">Музыка</a>
+          <a href="{{ '/cv/' | relative_url }}" class="{% if page.url == '/cv/' %}active{% endif %}">Резюме</a>
         </nav>
       </header>
       
