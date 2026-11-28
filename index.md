@@ -10,14 +10,6 @@
   <a href="https://t.me/ivan_pudov" target="_blank" rel="noopener noreferrer">@ivan_pudov</a>
 </div>
 
-<div style="display: flex; gap: 16px; margin: 16px 0 8px 0; flex-wrap: wrap;">
-  <a href="/about/">Обо мне →</a>
-  <span style="color: #888;">/</span>
-  <a href="/music/">Музыка →</a>
-  <span style="color: #888;">/</span>
-  <a href="/cv/">Резюме →</a>
-</div>
-
 ## Избранные проекты
 
 [**Океан Юрского периода**](/projects/jurassic-ocean/) — Интерактивная мультимедийная выставка. Разработал систему освещения и настроил постобработку для всего пространства выставки, создал интерактивную лаунж-зону.
