@@ -1,4 +1,9 @@
 https://ipudov.github.io/
 https://ipudov.github.io/about/
-https://ipudov.github.io/music/
 https://ipudov.github.io/cv/
+https://ipudov.github.io/music/
+https://ipudov.github.io/projects/
+https://ipudov.github.io/projects/audio/
+https://ipudov.github.io/projects/kira/
+https://ipudov.github.io/projects/northern-city/
+https://ipudov.github.io/projects/solar-wind/
