@@ -18,6 +18,10 @@
 
 Самое приятное — видеть, что твоя работа вызывает у посетителей искренний эмоциональный отклик: совершенно иначе начинаешь воспринимать и сам проект, и свою роль в нём.
 
+#### Материалы
+
 <a href="https://www.behance.net/gallery/122971265/Jurassic-Ocean-Immersive-Experience" target="_blank" rel="noopener noreferrer">Презентация проекта на Behance ↗</a>
+
+<a href="https://www.youtube.com/watch?v=20ncefg2fpE" target="_blank" rel="noopener noreferrer">Видео проекта на YouTube ↗</a>
 
 **Стек:** Unity, Maya
