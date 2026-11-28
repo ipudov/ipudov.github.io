@@ -1,11 +1,8 @@
 # Иван Пудов
 
-### Режиссер и технический дизайнер
+**Режиссёр и технический дизайнер**
 
 Создаю интерактивные проекты — от концепции и драматургии до технической реализации. Работаю с графикой и звуком, проектирую логику и взаимодействия, организую совместную работу специалистов разных направлений.
-
-<p><a href="mailto:ioann.pudov@gmail.com">ioann.pudov@gmail.com</a></p>
-<p><a href="https://t.me/ivan_pudov" target="_blank" rel="noopener noreferrer">@ivan_pudov</a></p>
 
 ## Избранные проекты
 
@@ -18,3 +15,9 @@
 [**Kira**](/projects/kira/) — Синтезатор для аппаратной DSP-платформы и полумодульная композиционная среда. Проектирую высокопроизводительную архитектуру на C++.
 
 [Все проекты →](/projects/)
+
+## Контакты
+
+<a href="mailto:ioann.pudov@gmail.com">ioann.pudov@gmail.com</a>
+
+<a href="https://t.me/ivan_pudov" target="_blank" rel="noopener noreferrer">@ivan_pudov</a>
